@@ -1,0 +1,82 @@
+ìØéûÇ…ë≈åÆÇ∑ÇÈîzóÒ
+
+/*
+ * ÇnÇ`ÇcÇf ÇPÇOÇXÇ`ÉLÅ[É{Å[ÉhÅ@ÇiÇhÇrÇ…ÇÊÇÈéQè∆ÉLÅ[É{Å[ÉhÇ…ÅI
+ * http://www.oadg.or.jp/news/news2/notice/109A-JIS.html
+ *
+ * http://www.oadg.or.jp/images/109A.pdf
+ *
+ * ÉLÅ[îzóÒ - Wikipedia
+ * http://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E9%85%8D%E5%88%97#109.E3.82.AD.E3.83.BC.E3.83.9C.E3.83.BC.E3.83.89
+ */
+
+[
+1|2|3|4|5|6|7|8|9|0|-|{^}|\|
+q|w|e|r|t|y|u|i|o|p|@|[  |
+a|s|d|f|g|h|j|k|l|;|:|]  |
+z|x|c|v|b|n|m|,|.|/|\|
+]
+
+-shift[
+{!}|" |{#}|$ |% |{&}|' |( |) |wxo|=|~  |@@@|
+Q  |W |E  |R |T |Y  |U |I |O |P  |`|{{}|
+A  |S |D  |F |G |H  |J |K |L |{+}|*|{}}|
+Z  |X |C  |V |B |N  |M |< |> |?  |_|
+]
+
+
+/* [1] */
++02[
+|||||||||||||
+|{LButton}|{RButton}||||||||||
+||||||||||||
+|||||||||||
+]
+/* [2] */
++03[
+|||||||||||||
+|||{vkF4sc029}{A_Hour}:{A_Min}{vkF4sc029}|||||||||
+|||{vkF4sc029}{A_Mon}/{A_MDay}{vkF4sc029}|||||||||
+|||||||||||
+]
+
+/* [3] */
++04[
+|||||||||||||
+|||{vkF4sc029}Åõ{vkF4sc029}|{vkF4sc029}Å†{vkF4sc029}|Åê|Åo|{vkF4sc029}Åh{vkF4sc029}|{vkF4sc029}Åf{vkF4sc029}|Åp|Åe|Å||
+|||{vkF4sc029}Å~{vkF4sc029}|{vkF4sc029}Å¢{vkF4sc029}|Åï|ÅF|ÅC|ÅD|ÅG|  |Å{|
+||||  |Åì|Å^|ÅÉ|ÅÑ|Å_|ÅQ|
+]
+
+/*[op shortcut]*/
++05[
+||||    |||||||||
+||||    ||{vkF4sc029}{A_Mon}/{A_MDay}{space}{A_Hour}:{A_Min}{vkF4sc029}|{vkF4sc029}{A_Hour}:{A_Min}~{vkF4sc029}|én||||
+||||    ||{vkF4sc029}ÅÑ(){Left}{vkF4sc029}|{vkF4sc029}{A_Hour}:{A_Min}{vkF4sc029}|ó\||||
+||||    ||Å@Å]|{vkF4sc029}~{A_Hour}:{A_Min}{vkF4sc029}|èI|||
+]
+
+/* [5] */
++06[
+|||||||||||||
+||||{reload}||||||||
+||||||||||||
+|||||||||||
+]
+
+/* [8] */
++09[
+|||||||||||||
+||||||||||||
+Å©|Å™|Å´|Å®|||||||||
+|||||||||||
+]
+
+/* [9] */
++0a[
+|||||||||||||
+||{vkF4sc029}{A_Year}_{A_Mon}{A_MDay}_{A_Hour}{A_Min}{vkF4sc029}|{vkF4sc029}{A_Year}{A_Mon}{A_MDay}{A_Hour}{A_Min}{vkF4sc029}|||||||||
+|{vkF4sc029}{A_Year}/{A_Mon}/{A_MDay}{vkF4sc029}|{vkF4sc029}{A_Mon}/{A_MDay}{vkF4sc029}|{vkF4sc029}{A_Hour}:{A_Min}{vkF4sc029}|||||||||
+|||||||||||
+]
+
